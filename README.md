@@ -85,3 +85,9 @@ npm run dev
 We used a code-first approach, where we first implemented the backend service and then created the API endpoints. The service is built using Node.js and Fastify, with TypeScript for better type safety and readability. I used the `graphql-request` library to fetch data from the external GraphQL API and Prisma as the ORM for working with the PostgreSQL database. The API provides pagination support and error handling, and stores the fetched Pokemon details lazily in the database when a specific Pokemon is requested for the first time.
 
 ---
+
+IF you face with any error on running a app please contact with me anytime ---
+
+Discord: Mr. Beaver#3268
+Email: akinuman26@gmail.com
+WP: +905432809752
