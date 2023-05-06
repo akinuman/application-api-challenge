@@ -60,6 +60,13 @@ Start the server:
 npm run dev
 ```
 
+CRUD interface for database:
+
+```
+npx prisma studio
+```
+
+
 ## API Documentation
 
 ### Get Pokemons
