@@ -21,7 +21,7 @@ This service is a REST API adapter that fetches data from an external Pokemon Gr
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/pokemon-rest-api-adapter.git
+   git clone https://github.com/akinuman/application-api-challenge.git
    ```
 
 2. Install the dependencies:
